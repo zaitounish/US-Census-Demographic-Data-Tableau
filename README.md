@@ -8,7 +8,7 @@ I wrote for every visualization summary and the reason that we chose this specif
         transportation, and the relationship between poverty and unemployment
         </a>
     </li><br>
-    <li>Insight 2:<a href="https://public.tableau.com/app/profile/mohamed1153/viz/HighestPopulationDensityAvg_Poverty-Dashboard/Dashboard3?publish=yes">Comparison between the highest density of population and the average
+    <li>Insight 2:<a href="https://public.tableau.com/app/profile/mohamed1153/viz/HighestPopulationDensityAvg_Poverty-Dashboard/Dashboard3?publish=yes"> Comparison between the highest density of population and the average
         poverty
         </a>
     </li><br>
